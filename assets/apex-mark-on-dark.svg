@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 29 98 37.5" width="98" height="37.5" fill="none">
+  <title>Apex Dx Lab mark</title>
+  <defs>
+    <linearGradient id="g" x1="32" y1="30" x2="126" y2="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E9D7A4"/>
+      <stop offset=".45" stop-color="#DCC48E"/>
+      <stop offset="1" stop-color="#C9A868"/>
+    </linearGradient>
+    <clipPath id="base"><rect x="0" y="0" width="200" height="66"/></clipPath>
+  </defs>
+  <g clip-path="url(#base)" stroke="url(#g)" stroke-width="2.5" stroke-linejoin="miter" stroke-miterlimit="10" stroke-linecap="butt">
+    <!-- large peak -->
+    <path d="M31.48 68 L70 31.6 L108.52 68"/>
+    <!-- small middle peak -->
+    <path d="M55.45 68 L72 51.8 L88.55 68"/>
+    <!-- right peak: inner leg lands on the middle peak's right leg -->
+    <path d="M75.62 56.61 L94.6 38.8 L125.73 68"/>
+  </g>
+</svg>
